@@ -1,4 +1,4 @@
-tudySharez – Smart Study Material Sharing Platform
+StudySharez – Smart Study Material Sharing Platform
 
 StudySharez is a mobile-based educational platform developed to simplify the sharing and management of academic resources between students and instructors. The application provides a centralized environment where instructors can upload study materials and students can access, download, and manage learning content efficiently.
 
